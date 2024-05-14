@@ -4,7 +4,7 @@
 <p align="center">Seja bem vindo(a).</p>
 <br>
 <p align="center">
-Usando JS e TS desenvolvo aplicações do frontend ao backend, Gosto de aprender coisas novas e criar soluções. Today, Sou um desenvolvedor <strong>full stack</strong> focado em desenvolvimento web.</p>&nbsp;
+Usando JS e TS desenvolvo aplicações do frontend ao backend, Gosto de aprender coisas novas e criar soluções. Sou um desenvolvedor <strong>full stack</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dienay&theme=radical&mode=weekly" alt="dienay" />
